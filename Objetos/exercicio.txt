@@ -1,0 +1,14 @@
+Crie uma função que recebe o parâmetro "caracteristicas", que vai receber
+sempre um valor seguindo o padrão abaixo:
+
+{
+        nome: "Lucas",
+        cabelo: "Preto",
+        monitor: "Grande",
+        copo: "Transparente"
+}
+
+Percorra o parâmetro caracteristicas fazendo chamadas ao console.log() seguindo o padrão:
+
+"Meu [propriedade] é [valor]"
+
